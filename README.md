@@ -14,3 +14,9 @@
 | Usuarios  | Usuarios registrados en el blog  | id, nombre, apellidos, email, password, fecha |
 | Categorias  | Categorias del blog  | id, nombre |
 | Entradas  | Entradas creadas por los usuarios para el blog  | id, usuario_id, categoria_id, titulo, descripcion, fecha |
+
+
+| TITULO1| TITULO2|
+| ----- | ---- |
+| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
+
