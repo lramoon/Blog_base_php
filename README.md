@@ -1,4 +1,5 @@
-"# Blog realizado con php para refrescar conocimientos, en este caso se realizo sin la arquitectura MVC  
+"
+# Blog realizado con php para refrescar conocimientos, en este caso se realizo sin la arquitectura MVC  
 
 ## Requisitos 🙌
 
