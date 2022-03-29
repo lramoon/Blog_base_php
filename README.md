@@ -16,7 +16,7 @@
 | Entradas  | Entradas creadas por los usuarios para el blog  | id, usuario_id, categoria_id, titulo, descripcion, fecha |
 
 
-| TITULO1| TITULO2|
-| ----- | ---- |
-| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
-
+- Esto es viñeta 1.
+  - Viñeta 1.1 con sangria.
+  - Viñeta N.
+  
