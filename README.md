@@ -1,4 +1,3 @@
-"
 # Blog realizado con php para refrescar conocimientos, en este caso se realizo sin la arquitectura MVC  
 
 ## Requisitos 🙌
@@ -15,7 +14,3 @@
 | Usuarios  | Usuarios registrados en el blog  | id, nombre, apellidos, email, password, fecha |
 | Categorias  | Categorias del blog  | id, nombre |
 | Entradas  | Entradas creadas por los usuarios para el blog  | id, usuario_id, categoria_id, titulo, descripcion, fecha |
-
-
-
-" 
